@@ -36,3 +36,13 @@ git config user.name
 
 ## Acessando todas as informações do usuario em o unico comando
 git config --list
+
+## Branchs
+git branch:  Exibe a BRANCH que o usuário está utilizando
+
+git checkout -b feature/nome da branch: Cria uma nova BRANCH e logo depois muda  para branch criada
+
+git checkout feature/nome da branch: Alterna de BRANCH
+
+git branch -d feature/nome da branch: Deleta a BRANCH
+
