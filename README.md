@@ -30,3 +30,9 @@ git --version
 2º  git config --global user.email "email do usuario"
 
 3º  git config --global core.editor nome do editor usado
+
+## Acessando uma informações por vez do usuario
+git config user.name
+
+## Acessando todas as informações do usuario em o unico comando
+git config --list
