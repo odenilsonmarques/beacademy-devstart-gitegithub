@@ -46,3 +46,12 @@ git checkout feature/nome da branch: Alterna de BRANCH
 
 git branch -d feature/nome da branch: Deleta a BRANCH
 
+## Outros comandos
+git status: Informa de exite alguma alteração a ser comitada
+
+git add . : Atrela as alteração realizadas ao projeto antes de ser comitada
+
+git commit -m"texto": Grava alterações no repositório
+
+
+ 
