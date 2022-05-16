@@ -9,3 +9,13 @@ de versões do mercado de tecnologia, o Git / Github.
 - [@odenilsomarques](https://www.github.com/odenilsonmarques)
 
 
+## Definições
+
+## git: 
+Responsável por permitir o gerenciamento de diferenntes 
+versoes de um documento / projeto de forma local.
+
+
+## github: 
+Plataforma web onde será armazenado as versoes dos 
+projetos feito pelo git de forma public ou não..
